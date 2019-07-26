@@ -17,7 +17,7 @@ The result is available at [./vot_rgbd2019_result](https://github.com/tangjiuqi0
 
 # usage
 
-follow 
+run tracker_ATCAIS.m by VOT-toolkit, and you should adjust the path to your path.
 
 ## installation
 

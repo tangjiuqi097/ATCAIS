@@ -12,6 +12,7 @@ and [HTC](https://github.com/open-mmlab/mmdetection).
 ## results
 
 The F1-score is 0.7016 while the AUC is 0.6463. 
+
 The results are available at [./vot_rgbd2019_result](https://github.com/tangjiuqi097/ATCAIS/tree/master/vot_rgbd2019_result).
 
 # usage

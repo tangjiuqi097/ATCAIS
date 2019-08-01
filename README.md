@@ -11,9 +11,8 @@ and [HTC](https://github.com/open-mmlab/mmdetection).
 
 ## results
 
-The submitted tracker did not report the confidence.
-The F1-score with the confidence value is 0.7016. 
-The result is available at [./vot_rgbd2019_result](https://github.com/tangjiuqi097/ATCAIS/tree/master/vot_rgbd2019_result).
+The F1-score is 0.7016 while the AUC is 0.6463. 
+The results are available at [./vot_rgbd2019_result](https://github.com/tangjiuqi097/ATCAIS/tree/master/vot_rgbd2019_result).
 
 # usage
 

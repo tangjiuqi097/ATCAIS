@@ -82,7 +82,12 @@ Missing symbol '_ZNSt13runtime_errorC1EPKc' required by '/home/tangjiuqi097/data
 Missing symbol '_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_replaceEmmPKcm' required by '/home/tangjiuqi097/data/vot2019/vot-toolkit/native/traxclient.mexa64'
 Missing symbol '_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4swapERS4_' required by '/home/tangjiuqi097/data/vot2019/vot-toolkit/native/traxclient.mexa64'
 ...
-I am not sure what happens, but you can run `export LD_PRELOAD=$LD_PRELOAD:/usr/lib/x86_64-linux-gnu/libstdc++.so.6:/usr/lib/x86_64-linux-gnu/libprotobuf.so.9` before you open matlab to solve it.
+
+I am not sure what happens, but you can run 
+
+`export LD_PRELOAD=$LD_PRELOAD:/usr/lib/x86_64-linux-gnu/libstdc++.so.6:/usr/lib/x86_64-linux-gnu/libprotobuf.so.9` 
+
+before you open matlab to solve it.
 
 
 if you have any other questions, please contact to me

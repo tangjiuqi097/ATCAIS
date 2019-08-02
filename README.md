@@ -2,7 +2,7 @@
 
 # ATCAIS
 
-The ATCAIS tracker for VOT-RGBD2019 challenge
+It is the ATCAIS tracker for VOT-RGBD2019 challenge.
 
 
 The code is implemented based on 

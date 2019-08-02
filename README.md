@@ -86,7 +86,7 @@ I am not sure what happens, but you can run `export LD_PRELOAD=$LD_PRELOAD:/usr/
 
 
 if you have any other questions, please contact to me
-`wym097@mail.dlut.edu.cn`
+`wym097@mail.dlut.edu.cn`.
 if you have not got reply in time, try
 `1714079799@qq.com`
 

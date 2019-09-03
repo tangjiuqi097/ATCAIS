@@ -50,6 +50,7 @@ download the atom checkpoint and move it to
 [Baidu Netdisk](https://pan.baidu.com/s/1zbrtuX6X2rRJ5eCEFj-OCA) 
 password: mwcp
 
+or [Google](https://docs.google.com/uc?export=download&id=1VNyr-Ds0khjM0zaq6lU-xfY74-iWxBvU)
 
 download the detection checkpoint and move it to 
 'pytracking/mmdetection/checkpoints'

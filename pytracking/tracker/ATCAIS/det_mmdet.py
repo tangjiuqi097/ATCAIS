@@ -435,6 +435,8 @@ class Detector(object):
         im_sz=segms[0]['size'][::-1]
         predictions=BoxList(bbox,im_sz,"xyxy")
 
+        if len(masks)>0:
+            masks=np.stack(masks)
         masks=torch.tensor(masks)[:,None]
         predictions.add_field("mask",masks)
 
